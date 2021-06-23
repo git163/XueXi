@@ -1,5 +1,5 @@
 # XueXiQiangGuo
-## https://github.com/TechXueXi/TechXueXi 编译版 修复视频、弹窗等bug
+### https://github.com/TechXueXi/TechXueXi 编译版 修复视频、弹窗等bug
 
 
  
